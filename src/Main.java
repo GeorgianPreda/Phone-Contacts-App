@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     private static Scanner scanner = new Scanner(System.in);
-    private static MobilePhone mobilePhone = new MobilePhone("0747468906");
+    private static MobilePhone mobilePhone = new MobilePhone("07");
 
 
     public static void main(String[] args) {
